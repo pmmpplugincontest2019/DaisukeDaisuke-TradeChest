@@ -1,0 +1,6 @@
+name: TradeChest
+main: TradeChest\TradeChest
+version: 3.0
+api:
+- 3.0.0
+load: POSTWORLD
